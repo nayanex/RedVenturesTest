@@ -1,0 +1,112 @@
+.row-header {
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    
+}
+
+.btn-dark {
+     background: rgb(48, 48, 48);
+     font-weight: bold;
+     font-size: 70%;
+     padding: 0.8%;
+     border-color: rgb(48, 48, 48);
+     color: rgb(234, 234, 234);
+     border-radius: 2px;
+     border-width: 0px;
+}
+
+.slogan-footer {
+    color: white;
+    font-size: 320%;
+    padding: 14% 0% 0% 0%;
+    font-weight: 800;
+}
+
+#img-bkg-footer {
+    margin: 0px 0px 0px 0px;
+    padding: 0% 0% 13.5% 0%;
+    background-image: url(../img/footer.png);
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+}
+
+.row-footer {
+    margin: 0px 0px 0px 0px;
+    margin-right: -5.3%;
+    margin-left: -5.4%;
+    vertical-align: center;
+}
+
+.copyright-info {
+    padding: 5px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 80%;
+    color: #B8B8B8;
+}
+
+footer {
+    color: gray;
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron {
+    margin: 0px 0px 0px 0px;
+    padding: 0% 0% 34.4% 0%;
+    background-image: url(../img/banner.png);
+    background-color: transparent;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-inverse {
+     background: white;
+     font-weight: bold;
+     font-size: 70%;
+     border-color: #ff5c2b;
+     color: black;
+     
+}
+
+.navbar-inverse .navbar-nav> li> a {
+    color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #fff !important;
+    background-color: #ff5c2b !important;
+}
+
+.navbar-inverse .navbar-nav> li> a:active {
+    color: #fff;
+    background: #333;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: black;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #ff5c2b;
+    background-color: #ff5c2b;
+}
+
